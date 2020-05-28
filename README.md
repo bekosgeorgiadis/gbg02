@@ -4,24 +4,24 @@ Next let's put some **bold** and then some *italics*
 Lets try to combine __*bold and italics*__
 
 ## There are 10 people in the world, those who can read BINARY and those who cannot.
-### __*Anonymous*__
+### __ *Anonymous*__
 
 
 ## A clever person solves a problem.
 ## A wise person AVOIDS it.
-### __*Albert Einstein*__
+### __ *Albert Einstein*__
 
 
 ## Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
-### __*Rich Cook
+### __ *Rich Cook
 
 
 ## Before software can be reusable it first has to be usable.
-### __*Ralph Johnson
+### __ *Ralph Johnson
 
 
 ## There’s no time to stop for gas, we’re already late
-### __*Karin Donker
+### __ *Karin Donker
 
 
 ## To go faster, slow down. Everybody who knows about orbital mechanics understands that.
