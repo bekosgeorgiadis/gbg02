@@ -1,1 +1,1 @@
-gfnbsadnsf sfgnfgnf
+console.log('test message')
