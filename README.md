@@ -3,6 +3,12 @@ First lets add a link to [www.meetonline.info](http://www.meetonline.info)
 Next let's put some **bold** and then some *italics*
 Lets try to combine __*bold and italics*__
 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+
 #### There are 10 people in the world, those who can read BINARY and those who cannot.
 _Anonymous_
 
