@@ -3,8 +3,9 @@ First lets add a link to [www.meetonline.info](http://www.meetonline.info)
 Next let's put some **bold** and then some *italics*
 Lets try to combine __*bold and italics*__
 
-##There are 10 people in the world, those who can read BINARY and those who cannot.
-###- __*Anonymous*__
+##There are 10 people in the world, those who can read BINARY and those who cannot.##
+
+###- __*Anonymous*__###
 
 ##A clever person solves a problem.
 ##A wise person AVOIDS it.
