@@ -7,8 +7,7 @@ Lets try to combine __*bold and italics*__
 _Anonymous_
 
 
-#### A clever person solves a problem.
-#### A wise person AVOIDS it.
+#### A clever person solves a problem; A wise person AVOIDS it.
 _Albert Einstein_
 
 
